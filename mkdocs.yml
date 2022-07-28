@@ -8,3 +8,5 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+nav:
+  - app_development_containers_fancy.md

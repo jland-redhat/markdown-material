@@ -14,4 +14,8 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
-  - app_development_containers_fancy.md
+  - Overview: "index.md"
+  - Learning Paths By Persona:
+    - SDET:
+      - "Application Development in Containers (Quick Path) - Fancy": "app-dev-quick-fancy.md"
+      - "Application Development in Containers (Quick Path) - Boring": "app-dev-quick-boring.md"
